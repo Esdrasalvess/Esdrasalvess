@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Esdrás Alves dos Santos</h1>
+<h1 align="center"> Esdrás Alves dos Santos</h1>
 
 <p align="center">
 Backend Engineer • Arquitetura de Sistemas • Sistemas Distribuídos • HPC • IA
@@ -50,7 +50,7 @@ Backend não é apenas código — é arquitetura, performance e previsibilidade
 
 ### 💻 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,laravel" />
 </p>
 
 ### 🗄 Banco de Dados
