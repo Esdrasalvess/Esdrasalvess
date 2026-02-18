@@ -1,109 +1,119 @@
-<h1 align="center"> Esdrás Alves dos Santos</h1>
+<h1 align="center">⚡ Esdrás Alves dos Santos</h1>
 
 <p align="center">
-Backend Engineer • Distributed Systems • High Performance Computing • AI
+Backend Engineer • Arquitetura de Sistemas • Sistemas Distribuídos • HPC • IA
 </p>
 
 <p align="center">
-Designing scalable architectures, distributed systems and production-ready infrastructures.
+Especialista em construção de APIs robustas, arquiteturas escaláveis e ambientes distribuídos de alto desempenho.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 🎓 Computer Engineering Student  
-- 🧠 Focused on Distributed Systems & High Performance Computing  
-- ⚙ Backend Engineer with real production experience  
-- ☁ Managing VPS infrastructure and cloud environments  
-- 🔬 Building AI pipelines and cluster orchestration systems  
+Sou desenvolvedor com foco principal em **Backend Engineering**, atuando na construção de:
+
+- APIs REST robustas e escaláveis  
+- Arquiteturas multi-tenant  
+- Sistemas distribuídos  
+- Ambientes produtivos em VPS Linux  
+- Infraestrutura containerizada  
+
+Tenho experiência real em ambientes de produção, integração com sistemas corporativos e construção de pipelines de processamento intensivo.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Especialidade: Backend Engineering
+
+- Desenvolvimento de APIs RESTful escaláveis  
+- Spring Boot (Security, JPA, JWT, filtros customizados)  
+- .NET Core  
+- Node.js  
+- Arquitetura MVC  
+- Sistemas multi-tenant (isolamento por banco)  
+- Integração com CRMs (Salesforce, HubSpot)  
+- Autenticação e autorização segura  
+- Reverse Proxy com Nginx  
+- Deploy em ambiente Linux  
+
+Backend não é apenas código — é arquitetura, performance e previsibilidade.
+
+---
+
+## 🧰 Stack Tecnológica
 
 ### 💻 Backend
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,laravel" />
 </p>
 
-### 🗄 Databases
+### 🗄 Banco de Dados
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-### ☁ Cloud & Infrastructure
+### ☁ Infraestrutura & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,gcp,git" />
 </p>
 
-### ⚡ Distributed & HPC
+---
+
+## ⚡ Sistemas Distribuídos & HPC
+
 - SLURM  
 - MPI  
 - MUNGE  
-- Parallel Processing  
-- Cluster Administration  
+- Processamento Paralelo  
+- Orquestração de jobs  
+- Administração de Cluster Linux  
 
-### 🤖 AI & Data Engineering
+---
+
+## 🤖 Inteligência Artificial & Engenharia de Dados
+
 - Machine Learning  
 - Deep Learning  
-- YOLO (Computer Vision)  
+- YOLO (Visão Computacional)  
+- ETL de dados não estruturados  
 - RAG (Retrieval-Augmented Generation)  
-- Vector Databases  
+- Bancos Vetoriais (Embeddings)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esdrasalvess&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrasalvess&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=Esdrasalvess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrasalvess&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-## 🏗 Engineering Principles
+## 🏗 Princípios de Engenharia
 
-- Performance over convenience  
-- Architecture before implementation  
-- Clean Code (SOLID, TDD)  
-- Containerized environments  
-- Production-ready systems  
-
----
-
-## 🌍 Languages
-
-- 🇧🇷 Portuguese — Native  
-- 🇺🇸 English — Advanced  
+- Arquitetura antes da implementação  
+- Performance acima de conveniência  
+- Código limpo (SOLID, TDD)  
+- Infraestrutura sob controle  
+- Sistemas preparados para escalar  
 
 ---
 
-## 🎯 Current Focus
+## 🌎 Idiomas
 
-- High Performance Computing  
-- Distributed AI Systems  
-- Scalable SaaS Architectures  
-- Infrastructure Automation  
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Avançado  
 
 ---
 
 <p align="center">
-Building systems that scale.
+Construindo backends que escalam e sistemas que suportam crescimento real.
 </p>
-
-
-<!--
-**Esdrasalvess/Esdrasalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
