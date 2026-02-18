@@ -86,14 +86,18 @@ Backend não é apenas código — é arquitetura, performance e previsibilidade
 
 <p align="center">
   <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=Esdrasalvess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  />
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrasalvess&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Esdrasalvess&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" 
+    height="170"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrasalvess&layout=compact&theme=tokyonight&locale=pt-br" 
+    height="170"
+  />
+</p>
+
 
 ---
 
