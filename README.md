@@ -1,82 +1,96 @@
-# Esdrás Alves dos Santos
+<h1 align="center"> Esdrás Alves dos Santos</h1>
 
-Backend Engineer | Distributed Systems | HPC | AI
+<p align="center">
+Backend Engineer • Distributed Systems • High Performance Computing • AI
+</p>
 
-Building scalable systems, distributed architectures and high-performance environments.
-
----
-
-## Core Expertise
-
-### Backend Engineering
-- Java (Spring Boot, JPA, Security)
-- C# (.NET Core)
-- Node.js
-- RESTful APIs
-- MVC Architecture
-- Multi-tenant systems
-
-### Distributed Systems & HPC
-- SLURM
-- MPI
-- MUNGE
-- Parallel processing
-- Job orchestration
-- Cluster administration (Linux)
-
-### Cloud & Infrastructure
-- Linux (Ubuntu Server)
-- VPS administration (Contabo / Hostinger)
-- AWS (S3, Lambda)
-- Google Cloud (Compute Engine)
-- Docker & Docker Compose
-- Nginx (Reverse Proxy)
-- DNS, SSL/TLS
-- SSH Hardening & Firewall (UFW)
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-- Vector Databases (Embeddings / RAG)
-
-### AI & Data Engineering
-- Machine Learning
-- Deep Learning
-- YOLO (Computer Vision)
-- ETL Pipelines
-- Retrieval-Augmented Generation (RAG)
+<p align="center">
+Designing scalable architectures, distributed systems and production-ready infrastructures.
+</p>
 
 ---
 
-## Engineering Principles
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student  
+- 🧠 Focused on Distributed Systems & High Performance Computing  
+- ⚙ Backend Engineer with real production experience  
+- ☁ Managing VPS infrastructure and cloud environments  
+- 🔬 Building AI pipelines and cluster orchestration systems  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,laravel" />
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+### ☁ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,gcp,git" />
+</p>
+
+### ⚡ Distributed & HPC
+- SLURM  
+- MPI  
+- MUNGE  
+- Parallel Processing  
+- Cluster Administration  
+
+### 🤖 AI & Data Engineering
+- Machine Learning  
+- Deep Learning  
+- YOLO (Computer Vision)  
+- RAG (Retrieval-Augmented Generation)  
+- Vector Databases  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esdrasalvess&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdrasalvess&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏗 Engineering Principles
 
 - Performance over convenience  
 - Architecture before implementation  
-- Clean code (SOLID, TDD)  
+- Clean Code (SOLID, TDD)  
 - Containerized environments  
 - Production-ready systems  
 
 ---
 
-## Languages
+## 🌍 Languages
 
-- Portuguese — Native
-- English — Advanced (Professional Working Proficiency)
-
----
-
-## Current Focus
-
-- High Performance Computing
-- Distributed AI Systems
-- Scalable SaaS Architectures
-- Infrastructure Automation
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Advanced  
 
 ---
 
+## 🎯 Current Focus
+
+- High Performance Computing  
+- Distributed AI Systems  
+- Scalable SaaS Architectures  
+- Infrastructure Automation  
+
+---
+
+<p align="center">
 Building systems that scale.
+</p>
 
 
 <!--
