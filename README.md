@@ -87,25 +87,6 @@ Backend não é apenas código — é arquitetura, performance e previsibilidade
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Esdrasalvess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Esdrasalvess&layout=compact&theme=tokyonight" 
-    height="170"
-  />
-</p>
-
-
----
-
 ## 🏗 Princípios de Engenharia
 
 - Arquitetura antes da implementação  
